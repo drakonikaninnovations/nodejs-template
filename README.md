@@ -1,0 +1,17 @@
+# project-name-here
+
+[BADGES GO HERE]
+
+[ONE LINER PITCH GOES HERE]
+
+## About
+
+[DESCRIPTION GOES HERE]
+
+## Usage
+
+[USAGE AND INSTALL GUIDE HERE]
+
+## Credits
+
+[CREDIT GOES HERE]
